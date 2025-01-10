@@ -1,0 +1,90 @@
+{
+  "spots": [
+    {
+      "name": "阿勒泰",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/eRv5ia9mtc3gzbN.jpg",
+        "https://s2.loli.net/2025/01/10/ByioLAXwKYgfJxk.webp",
+        "https://s2.loli.net/2025/01/10/rBadgOUf9pPIFSw.webp",
+        "https://s2.loli.net/2025/01/10/cxpa62E3yXIRNWs.jpg"
+      ]
+    },
+    {
+      "name": "巴音布鲁克草原",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/A8gLez5cYS7TqWs.webp",
+        "https://s2.loli.net/2025/01/10/ZPK23oV6OklaMBE.png",
+        "https://s2.loli.net/2025/01/10/g4IYU7Rb5LtVfz9.png",
+        "https://s2.loli.net/2025/01/10/o85StczHgrD9vLy.webp"
+      ]
+    },
+    {
+      "name": "独山子大峡谷",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/teKor9pH53sITMP.webp",
+        "https://s2.loli.net/2025/01/10/EK3DHrgS45k9ts2.png",
+        "https://s2.loli.net/2025/01/10/zi8qM7lCtLWKw2Q.webp",
+        "https://s2.loli.net/2025/01/10/H9I3nXPdJMB2esQ.webp"
+      ]
+    },
+    {
+      "name": "独库公路",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/Qj9F3Uu8iSgcAWy.webp",
+        "https://s2.loli.net/2025/01/10/lrgJ79jIudbw8qm.webp",
+        "https://s2.loli.net/2025/01/10/xfIy3FB6eZvuiMh.webp",
+        "https://s2.loli.net/2025/01/10/rh2KUNWjMXTtazG.webp"
+      ]
+    },
+    {
+      "name": "喀纳斯",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/9EM61KYPoeO7fag.webp",
+        "https://s2.loli.net/2025/01/10/teSrbYHhMkU9oEn.webp",
+        "https://s2.loli.net/2025/01/10/qWESzedKCFsN4vf.webp",
+        "https://s2.loli.net/2025/01/10/1RQ7LiZDv6MnOy4.jpg"
+      ]
+    },
+    {
+      "name": "可可托海",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/Hfj7bp8VTzDreCX.webp",
+        "https://s2.loli.net/2025/01/10/NxL6TmYsPKRuEn8.webp"
+      ]
+    },
+    {
+      "name": "赛里木湖",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/yIG8RoxSUmpzwv3.jpg",
+        "https://s2.loli.net/2025/01/10/sVfYWdiMa9L2Cly.jpg",
+        "https://s2.loli.net/2025/01/10/7KbV1ELypzQJTH3.jpg"
+      ]
+    },
+    {
+      "name": "那拉提草原",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/PRbrV3SWknE1zCm.webp",
+        "https://s2.loli.net/2025/01/10/AOIemCyEpPsrXct.jpg",
+        "https://s2.loli.net/2025/01/10/mHuUA6d1xENvMps.webp",
+        "https://s2.loli.net/2025/01/10/aEDC4riTbHkV7Wz.webp"
+      ]
+    },
+    {
+      "name": "伊犁薰衣草庄园",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/IsqRnYeLr1mZlij.webp",
+        "https://s2.loli.net/2025/01/10/Q5tOJYngU62VRvy.webp",
+        "https://s2.loli.net/2025/01/10/CIx6MrUO9VY4oJi.webp",
+        "https://s2.loli.net/2025/01/10/ZsKBYRQPvgUicqE.webp"
+      ]
+    },
+    {
+      "name": "乌禾尔世界魔鬼城",
+      "image_urls": [
+        "https://s2.loli.net/2025/01/10/xNsqEyJA1otGwbm.webp",
+        "https://s2.loli.net/2025/01/10/pV6qfDBhIbxT3NW.webp",
+        "https://s2.loli.net/2025/01/10/EizTZvO48ouA9Jy.webp"
+      ]
+    }
+  ]
+}
