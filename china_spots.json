@@ -1,0 +1,232 @@
+{
+  "上海": {
+    "spots": [
+      {
+        "name": "东方明珠",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/H7FqzIENsivhDc5.jpg",
+          "https://s2.loli.net/2025/01/14/jkVrDhvsL9MCUH4.jpg",
+          "https://s2.loli.net/2025/01/14/PG5Symz4rLvaqMt.jpg"
+        ]
+      },
+      {
+        "name": "南京路",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/CKBN8XIqPJcsT9E.jpg"
+        ]
+      },
+      {
+        "name": "外滩",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/fH5NsATIC6kMznr.jpg",
+          "https://s2.loli.net/2025/01/14/nZquCeTYkSMho7g.jpg",
+          "https://s2.loli.net/2025/01/14/YzucevZ2dir4QKL.jpg",
+          "https://s2.loli.net/2025/01/14/SMeZDyzqgxaWJHu.jpg"
+        ]
+      },
+      {
+        "name": "玉佛寺",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/qeymFNuDvBo26kT.jpg"
+        ]
+      }
+    ]
+  },
+  "云南": {
+    "spots": [
+      {
+        "name": "丽江古城",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/wmq4QGWNgVBHPnd.jpg",
+          "https://s2.loli.net/2025/01/14/C694uwIZpJoYLmG.jpg",
+          "https://s2.loli.net/2025/01/14/4mrSu3vVtZM2LeW.jpg"
+        ]
+      },
+      {
+        "name": "玉龙雪山",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/XJIlMkDYcwNK23W.jpg",
+          "https://s2.loli.net/2025/01/14/CLIRzmOUcsA43wY.jpg",
+          "https://s2.loli.net/2025/01/14/IjoBgUwlsemCdDf.jpg"
+        ]
+      },
+      {
+        "name": "石林",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/rt3Be1oVvuXwPiL.jpg",
+          "https://s2.loli.net/2025/01/14/E6sXzRidLrw38ZO.jpg"
+        ]
+      },
+      {
+        "name": "香格里拉",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/Amu63dRDvobc5yP.jpg",
+          "https://s2.loli.net/2025/01/14/zaVREj5gfLp1wdY.jpg"
+        ]
+      }
+    ]
+  },
+  "北京": {
+    "spots": [
+      {
+        "name": "北海公园",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/HfXem7iKkxEPLpy.jpg"
+        ]
+      },
+      {
+        "name": "故宫",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/EA5Htowgz8O4G7n.jpg",
+          "https://s2.loli.net/2025/01/14/Zf8San6hrB4zwYJ.jpg"
+        ]
+      },
+      {
+        "name": "长城",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/MJQtSRy7rc9jwY8.jpg",
+          "https://s2.loli.net/2025/01/14/nZvb3CkidfFS4EA.jpg",
+          "https://s2.loli.net/2025/01/14/C8YoUtjApZNSw1u.jpg",
+          "https://s2.loli.net/2025/01/14/I6HZFztgDj5QO1s.jpg",
+          "https://s2.loli.net/2025/01/14/eZ2s9KOfiMQbUCS.jpg",
+          "https://s2.loli.net/2025/01/14/jQO7KrZIq3gN58L.jpg",
+          "https://s2.loli.net/2025/01/14/zKJrdRt1CV7yw6G.jpg",
+          "https://s2.loli.net/2025/01/14/odVCRwFSqtO4EGv.jpg",
+          "https://s2.loli.net/2025/01/14/eGQtXaNb8rpDPZU.jpg"
+        ]
+      }
+    ]
+  },
+  "四川": {
+    "spots": [
+      {
+        "name": "乐山大佛",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/u5Ec2alQGYnzwX8.jpg",
+          "https://s2.loli.net/2025/01/14/cwkS4rCIKYeTsOa.jpg",
+          "https://s2.loli.net/2025/01/14/CdTBt79PybXj4Lq.jpg"
+        ]
+      },
+      {
+        "name": "九寨沟",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/tZs38jFKPnREXvd.jpg",
+          "https://s2.loli.net/2025/01/14/TW9s54CM7ZBFmoL.jpg",
+          "https://s2.loli.net/2025/01/14/z3Z6Vebl7DqmBT5.jpg",
+          "https://s2.loli.net/2025/01/14/dA2BZbLsgJGc34r.jpg",
+          "https://s2.loli.net/2025/01/14/uZevIbOBX4ochyq.jpg",
+          "https://s2.loli.net/2025/01/14/g267z8dqn9HvykT.jpg",
+          "https://s2.loli.net/2025/01/14/9Ruwcb18qzTUAWf.jpg",
+          "https://s2.loli.net/2025/01/14/3EiYRMgKB7FUwfI.jpg"
+        ]
+      },
+      {
+        "name": "峨眉山",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/3ePhAdlQDwUHO5L.jpg"
+        ]
+      },
+      {
+        "name": "都江堰",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/jKTUFOn7a6qch8H.jpg",
+          "https://s2.loli.net/2025/01/14/6Fk9oIOCztiP5ej.jpg",
+          "https://s2.loli.net/2025/01/14/64tA8WRFKxqurNh.jpg",
+          "https://s2.loli.net/2025/01/14/oeY6AjG9b7sSRWa.jpg"
+        ]
+      }
+    ]
+  },
+  "广东": {
+    "spots": [
+      {
+        "name": "广州塔",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/5kRmbF24iMp6hKQ.jpg"
+        ]
+      },
+      {
+        "name": "沙面岛",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/wy1rv5sOC2oV9p8.jpg",
+          "https://s2.loli.net/2025/01/14/6JCfwBKac4UlI5h.jpg"
+        ]
+      }
+    ]
+  },
+  "新疆": {
+    "spots": [
+      {
+        "name": "喀什古城",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/ue39fUCTBbWojnI.jpg"
+        ]
+      },
+      {
+        "name": "天山",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/W5h7KQ6zTSF4E21.jpg",
+          "https://s2.loli.net/2025/01/14/JSlMLO9WgZprTCf.jpg",
+          "https://s2.loli.net/2025/01/14/9azxtIoYgWdGB6F.jpg",
+          "https://s2.loli.net/2025/01/14/apVBTLu7Yz1c9CX.jpg"
+        ]
+      },
+      {
+        "name": "天池",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/mFY6rknLohljOyZ.jpg"
+        ]
+      }
+    ]
+  },
+  "江苏": {
+    "spots": [
+      {
+        "name": "苏州园林",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/MgJDh92jIUtQ7Tq.jpg"
+        ]
+      }
+    ]
+  },
+  "浙江": {
+    "spots": [
+      {
+        "name": "千岛湖",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/g8UkXFpnTo35DK9.jpg",
+          "https://s2.loli.net/2025/01/14/fAoWwKdqaCl1s9T.jpg"
+        ]
+      },
+      {
+        "name": "灵隐寺",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/SFdXyCQGVLoD6Ru.jpg"
+        ]
+      }
+    ]
+  },
+  "西藏": {
+    "spots": [
+      {
+        "name": "布达拉宫",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/RLEN6G1hZzn2mAq.jpg",
+          "https://s2.loli.net/2025/01/14/hT5xEeA4VvDSriH.jpg",
+          "https://s2.loli.net/2025/01/14/3YzHlbqyKUmTMjB.jpg",
+          "https://s2.loli.net/2025/01/14/T3vVc56ID4xeZGu.jpg",
+          "https://s2.loli.net/2025/01/14/QzE3TgpRYN1m6dk.jpg",
+          "https://s2.loli.net/2025/01/14/vgFR7MobyqdAeUu.jpg"
+        ]
+      },
+      {
+        "name": "纳木错",
+        "image_urls": [
+          "https://s2.loli.net/2025/01/14/WeMu6JBKXxjnrt5.jpg",
+          "https://s2.loli.net/2025/01/14/GSDAKyBcLVRvgeu.jpg",
+          "https://s2.loli.net/2025/01/14/rC3KFBT9umHwpLI.jpg"
+        ]
+      }
+    ]
+  }
+}
